@@ -57,4 +57,4 @@ Para ejecutar este proyecto en tu entorno local, asegúrate de tener instalado P
 
 *   **Francisco Javier Soto Vera** – *Tecnólogo en Análisis y Desarrollo de Sistemas de Información (SENA)* & *Especialista en Logística de Almacenes*.
 *   📩 **Contacto:** alcatrazsove@gmail.com
-*   🌐 **LinkedIn:** nkedin.com/in/francisco-javier-soto-vera-920b442ab
+*   🌐 **LinkedIn:** linkedin.com/in/francisco-javier-soto-vera-920b442ab
